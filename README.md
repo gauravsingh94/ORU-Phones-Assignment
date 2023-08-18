@@ -1,6 +1,6 @@
 # Project Name - FullStack Assignment from Oru-Phones
 
-![ORU Mobile Assignment](https://github.com/gauravsingh94/ORU-Phones-Assignment/assets/99260988/95911bc0-21f6-416b-95fe-bf3481992cae)
+   ![ORU Mobile Assignment](https://github.com/gauravsingh94/ORU-Phones-Assignment/assets/99260988/95911bc0-21f6-416b-95fe-bf3481992cae)
 
 ## Overview
 
@@ -24,7 +24,7 @@ Welcome to the FullStack Assignment from Oru-Phones project! This README file wi
 
 ## Watch the Video
 
-[![Watch the video](https://img.youtube.com/vi/_V9J_0Gr9mA/0.jpg)](https://www.youtube.com/watch?v=_V9J_0Gr9mA)
+   [![Watch the video](https://img.youtube.com/vi/_V9J_0Gr9mA/0.jpg)](https://www.youtube.com/watch?v=_V9J_0Gr9mA)
 
 ## Getting Started
 
