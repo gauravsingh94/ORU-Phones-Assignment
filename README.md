@@ -1,5 +1,7 @@
 # Project Name - FullStack Assignment from Oru-Phones
 
+![ORU Mobile Assignment](https://github.com/gauravsingh94/ORU-Phones-Assignment/assets/99260988/95911bc0-21f6-416b-95fe-bf3481992cae)
+
 ## Overview
 
 Welcome to the FullStack Assignment from Oru-Phones project! This README file will guide you through the functionalities and features of our application. We have converted a Figma design into a complete Next.js application that facilitates connections among users based on shared skills and interests. Our application incorporates cutting-edge technologies and tools to deliver a seamless and responsive user experience.
@@ -17,6 +19,12 @@ Welcome to the FullStack Assignment from Oru-Phones project! This README file wi
 - **Connection Suggestions:** Our platform goes beyond the norm by suggesting connections with individuals who share similar skills. This advanced recommendation system enhances user engagement and expands networks.
 
 - **Deployment:** We've deployed our application using Vercel, a cloud platform that supports static sites and serverless functions. The deployment includes both a fully functional site and a frontend-only link for responsive design testing.
+
+## Quick Guid to the website usage.
+
+## Watch the Video
+
+[![Watch the video](https://img.youtube.com/vi/_V9J_0Gr9mA/0.jpg)](https://www.youtube.com/watch?v=_V9J_0Gr9mA)
 
 ## Getting Started
 
