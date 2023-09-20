@@ -44,6 +44,7 @@ To run the project locally on your machine, follow these steps:
    
    ```
    MONGODB_URI=your_mongodb_uri_here
+   SECRET= secret_for_encryption_jwt_here
    ```
 
 5. With the environment variable set, you are ready to start the application locally. Run the following command:
